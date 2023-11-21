@@ -1,0 +1,51 @@
+{
+	"folders": [
+		{
+			"path": "../Invoicev1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\barcodes-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\barcodes-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\barcodes-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\commons-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\commons-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\commons-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\font-asian-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\forms-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\forms-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\forms-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\hyph-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\io-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\io-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\io-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\kernel-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\kernel-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\kernel-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\layout-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\layout-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\layout-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\pdfa-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\pdfa-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\pdfa-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\pdftest-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\pdftest-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\pdftest-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\sign-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\sign-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\sign-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\styled-xml-parser-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\styled-xml-parser-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\styled-xml-parser-7.2.5-sources.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\svg-7.2.5.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\svg-7.2.5-javadoc.jar",
+			"d:\\camtech\\Year2\\OOC-Y2\\iText7-Core-7.2.5\\svg-7.2.5-sources.jar"
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
